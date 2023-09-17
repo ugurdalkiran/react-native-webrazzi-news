@@ -15,7 +15,7 @@ Webrazzi'nin çeşitli kategorilerdeki haberlerini kullanıcılara sunan mobil b
 
 ## Uygulama Dosyaları
 
-Uygulamanın son halini **APK** olarak [buradan](https://github.com/ugurdalkiran/react-native-webrazzi-news/blob/main/webrazzi.apk?raw=true) indirebilirsiniz.
+Uygulamanın son halini **APK** olarak [buradan](https://github.com/ugurdalkiran/react-native-webrazzi-news/raw/main/webrazzi.apk) indirebilirsiniz.
 
 Uygulamanın tüm kaynak kodlarını ise **WeTransfer** üzerinden [buraya](https://we.tl/t-yZf6a2Ty9P) tıklayarak indirebilirsiniz.
 
@@ -32,15 +32,15 @@ Uygulamanın tüm kaynak kodlarını ise **WeTransfer** üzerinden [buraya](http
 
 ## Uygulama Tanıtım Videosu
 
-<video src="https://raw.githubusercontent.com/ugurdalkiran/react-native-webrazzi-news/blob/promotion.mp4"></video>
+<video src="https://raw.githubusercontent.com/ugurdalkiran/react-native-webrazzi-news/main/promotion.mp4" width="360"></video>
 
 ## Uygulama Görselleri (1/2)
 
-![PNG](https://raw.githubusercontent.com/ugurdalkiran/react-native-webrazzi-news/blob/promotion1.png)
+![PNG](https://raw.githubusercontent.com/ugurdalkiran/react-native-webrazzi-news/main/promotion1.png)
 
 ## Uygulama Görselleri (2/2)
 
-![PNG](https://raw.githubusercontent.com/ugurdalkiran/react-native-webrazzi-news/blob/promotion2.png)
+![PNG](https://raw.githubusercontent.com/ugurdalkiran/react-native-webrazzi-news/main/promotion2.png)
 
 ## Ek Bilgi
 
