@@ -32,7 +32,7 @@ Uygulamanın tüm kaynak kodlarını ise **WeTransfer** üzerinden [buraya](http
 
 ## Uygulama Tanıtım Videosu
 
-<video src="https://raw.githubusercontent.com/ugurdalkiran/react-native-webrazzi-news/main/promotion.mp4" width="360"></video>
+https://github.com/ugurdalkiran/react-native-webrazzi-news/assets/27302986/68b02be1-b0b9-4408-b3ac-a697dfd93153
 
 ## Uygulama Görselleri (1/2)
 
