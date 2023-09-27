@@ -17,7 +17,7 @@ Webrazzi'nin çeşitli kategorilerdeki haberlerini kullanıcılara sunan mobil b
 
 Uygulamanın son halini **APK** olarak [buradan](https://github.com/ugurdalkiran/react-native-webrazzi-news/raw/main/webrazzi.apk) indirebilirsiniz.
 
-Uygulamanın tüm kaynak kodlarını ise **WeTransfer** üzerinden [buraya](https://we.tl/t-yZf6a2Ty9P) tıklayarak indirebilirsiniz.
+Uygulamanın tüm kaynak kodlarını ise **WeTransfer** üzerinden [buraya](https://we.tl/t-R4FCrTaGF4) tıklayarak indirebilirsiniz.
 
 ## Kullanılan Paketler
 
